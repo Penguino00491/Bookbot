@@ -1,2 +1,3 @@
-# Bookbot
-Gives wordcount of a book given the .txt file
+# bookbot
+
+BookBot is my first [Boot.dev](https://www.boot.dev) project!
